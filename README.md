@@ -1,5 +1,3 @@
-# sudoi
-my second repository github
 # Privacy Policy – Football Analyzer
 
 *Last Updated: November 23, 2025*
